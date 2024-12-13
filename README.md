@@ -9,7 +9,7 @@ The method people at my school use to unblock websites, because they're "smart".
 
 ## How to use:
 
-1. [Visit This Site](chrome://chrome-signin)
+1. [Visit This Site: chrome://chrome-signin](chrome://chrome-signin)
 2. Click "OK", then in the account sign-in area, type in "google@d11.org".
 3. Complete the CAPTCHA.
 4. When it takes you to the Microsoft Sign-In page, click on "Sign-In Options".
